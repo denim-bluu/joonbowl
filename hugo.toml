@@ -1,7 +1,54 @@
 baseURL = 'https://denim-bluu.github.io/joonbowl/'
-locale = 'en-uk'
-title = 'My New Hugo Project'
-theme = 'ananke'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+languageCode = 'en-gb'
+title = 'Joonbowl'
+theme = 'archie'
+copyright = '© Joon'
+
+enableRobotsTXT = true
+
+pygmentsstyle = 'monokai'
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = 'tags'
+
+[params]
+  mode = 'auto'
+  useCDN = false
+  subtitle = 'Life, work, and thoughts.'
+  customcss = ['css/custom.css']
+  mainSections = ['life', 'work', 'thoughts']
+
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  name = 'Life'
+  url = '/life/'
+  weight = 10
+
+[[menu.main]]
+  name = 'Work'
+  url = '/work/'
+  weight = 20
+
+[[menu.main]]
+  name = 'Thoughts'
+  url = '/thoughts/'
+  weight = 30
+
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 40
+
+[[menu.main]]
+  name = 'Tags'
+  url = '/tags/'
+  weight = 50
