@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on Joonbowl</title>
-    <link>http://localhost:1313/joonbowl/thoughts/</link>
+    <link>https://denim-bluu.github.io/joonbowl/thoughts/</link>
     <description>Recent content in Thoughts on Joonbowl</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <copyright>© Joon</copyright>
-    <atom:link href="http://localhost:1313/joonbowl/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://denim-bluu.github.io/joonbowl/thoughts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
