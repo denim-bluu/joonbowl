@@ -1,9 +1,9 @@
 +++
 title = 'Getting_tired_of_ai'
 date = 2026-04-05T15:48:25+04:00
-draft = true
+draft = false
 description = 'It seems like it is nearly impossible to live my day without hearing about AI. I am getting tired of it not because of the frequency of the word that I hear but because of people who are using this without much knowledge about it.'
-tags = []
+tags = ['AI']
 +++
 
 Well, it is probably both exciting and mentally exhausting to live these days as a person who does programming for a hobby and for a living.
